@@ -4,10 +4,10 @@
 
 This Power BI dashboard analysis is designed to provide decision-makers at Super Store with data-driven insights, supporting strategic growth and enhancing competitiveness in the sales market.
 
--Improves understanding of sales dynamics and performance.
--Identifies geographical areas with high and low sales potential.
--Provides insights into product performance to inform inventory and marketing strategies.
--Delivers actionable recommendations to optimize sales and profits across various dimensions.
+- Improves understanding of sales dynamics and performance.
+- Identifies geographical areas with high and low sales potential.
+- Provides insights into product performance to inform inventory and marketing strategies.
+- Delivers actionable recommendations to optimize sales and profits across various dimensions.
 
 **KPI's (Key Point Indicators)**
 
